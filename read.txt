@@ -7,3 +7,4 @@
 =======
 888888888
 刚刚创建了一个Dev分支
+Creating a new branch is quick & simple.
